@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rajat7377
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning Java, Data Structures and Algorithms
+- 📫 How to reach me https://www.linkedin.com/in/rajat-dixit-2b3566201
