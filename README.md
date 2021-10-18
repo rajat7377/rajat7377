@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajat7377
+- 👋 Hi, I’m Rajat Dixit
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Java, Data Structures and Algorithms
 - ✨ I'm Subject Matter Expert at Chegg India
