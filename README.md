@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rajat Dixit
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Java, Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms
 - ✨ I'm Subject Matter Expert at Chegg India
 - 📫 How to reach me https://www.linkedin.com/in/rajat-dixit-2b3566201
