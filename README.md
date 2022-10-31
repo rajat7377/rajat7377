@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]https://hacktoberfest.appwrite.io/banner.png
+
 <h1 align="center">Hi 👋, I'm Rajat Dixit</h1>
 <h3 align="center">I'm currently pursuing my B.Tech from Harcourt Butler Technical University. Open source Contributor at Hacktoberfest. I am a Subject Matter Expert at Chegg India.</h3>
 
