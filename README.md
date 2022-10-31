@@ -1,4 +1,4 @@
-[![MasterHead](https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png)]
+[![@rajat7377's Holopin board](https://holopin.me/rajat7377)](https://holopin.io/@rajat7377)
 <h1 align="center">Hi 👋, I'm Rajat Dixit</h1>
 <h3 align="center">I'm currently pursuing my B.Tech from Harcourt Butler Technical University. Open source Contributor at Hacktoberfest. I am a Subject Matter Expert at Chegg India.</h3>
 
